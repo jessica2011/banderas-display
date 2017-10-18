@@ -10,8 +10,8 @@ p{
     display: inline-block;
     height: 100px;
     width: 200px;
-    padding: 1em;
-    border: 6px solid #ffffff;
+    padding: 0.5em;
+    border: 4px solid #ffffff;
 
 }
 .third{
