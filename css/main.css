@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+		background-color: rgba(0, 179, 255, 0.19);
+		line-height: 1.5;
+}
+a:visited{
+	color: rgb(209, 132, 59);
+}
+a:hover,
+a:active,
+a:focus{
+	color: rgb(89, 172, 30);
+}

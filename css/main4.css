@@ -1,0 +1,17 @@
+.done{
+    background-color: #f7b617; 
+}
+.second{
+    color: white;
+    background-color:#2b2b2b;
+}
+
+p{
+    display: inline;
+    padding: 1em;
+    border: 6px solid #ffffff;
+
+}
+.third{
+    text-transform: uppercase;
+}
